@@ -27,7 +27,19 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Senior Software Developer (Full-stack)<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Lakshman K from India, Living in USA from last 10 months.<br><br>- 🔭 I’m working as Senior Software Developer (Full-stack)<br>- ⚡ In my free time I learn new code teqniuqs ti oncres productivity and work on dream project.</p>
+
+- **Experienced Frontend Developer:** With over X years of experience in frontend development, I bring a wealth of expertise in building modern and responsive web applications.
+- **Proficient in Modern Web Technologies:** I am proficient in HTML5, CSS3, and JavaScript, with a strong understanding of ES6+ features and best practices.
+- **Expertise in Frontend Frameworks:** I have a deep understanding of popular frontend frameworks such as React.js, Vue.js, and Angular, and have successfully delivered projects using these technologies.
+- **UI/UX Design Skills:** My keen eye for design and attention to detail allow me to create intuitive and visually appealing user interfaces, ensuring a seamless user experience.
+- **Cross-platform Development:** I have experience in developing cross-platform applications using frameworks like React Native and Ionic, enabling the delivery of applications for both web and mobile platforms.
+- **Performance Optimization:** I am skilled in performance optimization techniques, including code splitting, lazy loading, and image optimization, to ensure fast and efficient web applications.
+- **Collaborative Team Player:** As a senior developer, I excel in collaborating with cross-functional teams, providing mentorship, and contributing to code reviews to ensure code quality and maintainability.
+- **Passionate Learner:** I am committed to staying updated with the latest trends and technologies in frontend development through continuous learning and self-improvement.
+- **Open Source Contributor:** I actively contribute to open-source projects, sharing my knowledge and expertise with the developer community and fostering collaboration and innovation.
+- **Effective Communicator:** With strong communication skills, I am able to effectively communicate complex technical concepts to non-technical stakeholders, facilitating understanding and alignment across teams.
+
 
 ###
 
